@@ -17,3 +17,9 @@ A quick and beginner level way to get modern, flat, dark and light theme on tkin
 * Example:  
 `new_window = tk.Toplevel(root)`  
 `new_window.configure(background=palette["BG"])`
+
+
+# Samples
+
+<img src="https://github.com/deminimis/tkinter_minimal_styles/blob/main/samples/darkpic.png?raw=true" alt="Dark Picture" style="max-width: 50%;">
+<img src="https://github.com/deminimis/tkinter_minimal_styles/blob/main/samples/lightpic.png?raw=true" alt="Dark Picture" style="max-width: 50%;">

@@ -2,6 +2,8 @@
 
 A quick and beginner level way to get modern, flat, dark and light theme on tkinter. 
 
+You can easily change the colors at the top to customize. 
+
 
 # Instructions
 
